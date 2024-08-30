@@ -6,7 +6,7 @@
 
 ## Author
 
-- [AdarshInDev](https://www.github.com/AdarshInDev)
+- [AdarshInDev](https://www.linkedin.com/in/adarsh-pradhan-in/)
 
 
 ## Installation
